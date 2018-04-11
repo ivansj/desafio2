@@ -4,7 +4,7 @@ Olá, queremos convidá-lo a participar de nosso desafio de seleção.  Pronto p
 
 ### Sobre a oportunidade 
 A vaga é para Desenvolvedor, temos vagas com diversos níveis de senioridade e para cada um deles utilizaremos critérios específicos considerando esse aspecto, combinado? 
-Se você for aprovado nesta etapa, será convidado para uma entrevista final com nosso time de especialistas.
+Se você for aprovado nesta etapa, será convidado para uma entrevista com nosso time de especialistas.
 
 ### Desafio Técnico
   Nós da Conductor trabalhamos com meios de pagamento e nada melhor que um bom sistema para gestão de contas:
