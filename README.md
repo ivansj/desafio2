@@ -57,7 +57,7 @@ Se você for aprovado nesta etapa, será convidado para uma entrevista com nosso
     ```
     * Implementar extrato por período;
     * Elaborar manual de execução;
-    * Elaborar documentação javadoc;
+    * Elaborar documentação;
     * Elaborar testes;
     * Prazo de entrega;
     ```
