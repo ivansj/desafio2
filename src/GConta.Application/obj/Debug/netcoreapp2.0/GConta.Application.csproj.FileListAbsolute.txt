@@ -1,0 +1,39 @@
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Application\bin\Debug\netcoreapp2.0\GConta.Application.deps.json
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Application\bin\Debug\netcoreapp2.0\GConta.Application.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Application\bin\Debug\netcoreapp2.0\GConta.Application.pdb
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Application\obj\Debug\netcoreapp2.0\GConta.Application.csprojResolveAssemblyReference.cache
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Application\obj\Debug\netcoreapp2.0\GConta.Application.csproj.CoreCompileInputs.cache
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Application\obj\Debug\netcoreapp2.0\GConta.Application.AssemblyInfoInputs.cache
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Application\obj\Debug\netcoreapp2.0\GConta.Application.AssemblyInfo.cs
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Application\obj\Debug\netcoreapp2.0\GConta.Application.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Application\obj\Debug\netcoreapp2.0\GConta.Application.pdb
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Application\bin\Debug\netcoreapp2.0\GConta.Domain.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Application\bin\Debug\netcoreapp2.0\GConta.Domain.pdb
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Application\obj\Debug\netcoreapp2.0\GConta.Application.csproj.CopyComplete
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Application\bin\Debug\netcoreapp2.0\GConta.Application.xml
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Application\bin\Debug\netcoreapp2.0\GConta.Application.xml
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Application\bin\Debug\netcoreapp2.0\GConta.Application.deps.json
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Application\bin\Debug\netcoreapp2.0\GConta.Application.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Application\bin\Debug\netcoreapp2.0\GConta.Application.pdb
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Application\bin\Debug\netcoreapp2.0\GConta.Domain.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Application\bin\Debug\netcoreapp2.0\GConta.Domain.pdb
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Application\obj\Debug\netcoreapp2.0\GConta.Application.csprojResolveAssemblyReference.cache
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Application\obj\Debug\netcoreapp2.0\GConta.Application.csproj.CoreCompileInputs.cache
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Application\obj\Debug\netcoreapp2.0\GConta.Application.AssemblyInfoInputs.cache
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Application\obj\Debug\netcoreapp2.0\GConta.Application.AssemblyInfo.cs
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Application\obj\Debug\netcoreapp2.0\GConta.Application.csproj.CopyComplete
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Application\obj\Debug\netcoreapp2.0\GConta.Application.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Application\obj\Debug\netcoreapp2.0\GConta.Application.pdb
+D:\Conductor\desafio2\desafio2\src\GConta.Application\bin\Debug\netcoreapp2.0\GConta.Application.xml
+D:\Conductor\desafio2\desafio2\src\GConta.Application\bin\Debug\netcoreapp2.0\GConta.Application.deps.json
+D:\Conductor\desafio2\desafio2\src\GConta.Application\bin\Debug\netcoreapp2.0\GConta.Application.dll
+D:\Conductor\desafio2\desafio2\src\GConta.Application\bin\Debug\netcoreapp2.0\GConta.Application.pdb
+D:\Conductor\desafio2\desafio2\src\GConta.Application\bin\Debug\netcoreapp2.0\GConta.Domain.dll
+D:\Conductor\desafio2\desafio2\src\GConta.Application\bin\Debug\netcoreapp2.0\GConta.Domain.pdb
+D:\Conductor\desafio2\desafio2\src\GConta.Application\obj\Debug\netcoreapp2.0\GConta.Application.csprojResolveAssemblyReference.cache
+D:\Conductor\desafio2\desafio2\src\GConta.Application\obj\Debug\netcoreapp2.0\GConta.Application.csproj.CoreCompileInputs.cache
+D:\Conductor\desafio2\desafio2\src\GConta.Application\obj\Debug\netcoreapp2.0\GConta.Application.AssemblyInfoInputs.cache
+D:\Conductor\desafio2\desafio2\src\GConta.Application\obj\Debug\netcoreapp2.0\GConta.Application.AssemblyInfo.cs
+D:\Conductor\desafio2\desafio2\src\GConta.Application\obj\Debug\netcoreapp2.0\GConta.Application.csproj.CopyComplete
+D:\Conductor\desafio2\desafio2\src\GConta.Application\obj\Debug\netcoreapp2.0\GConta.Application.dll
+D:\Conductor\desafio2\desafio2\src\GConta.Application\obj\Debug\netcoreapp2.0\GConta.Application.pdb

@@ -1,0 +1,287 @@
+swagger: '2.0'
+info:
+  version: v1
+  title: GConta API
+  description: Gestão de Conta
+  contact:
+    name: Ivan
+    url: 'https://www.linkedin.com/in/ivan-santos-de-jesus-3790493a'
+    email: ivansjesus.ti@gmail.com
+paths:
+  /api/CriarConta:
+    post:
+      tags:
+        - Conta
+      summary: Cria uma nova conta
+      operationId: ApiCriarContaPost
+      consumes:
+        - application/json-patch+json
+        - application/json
+        - text/json
+        - application/*+json
+      produces:
+        - application/json
+      parameters:
+        - name: conta
+          in: body
+          description: ''
+          required: false
+          schema:
+            $ref: '#/definitions/ContaViewModel'
+      responses:
+        '200':
+          description: Success
+          schema:
+            $ref: '#/definitions/ResponseConta'
+        '400':
+          description: Bad Request
+          schema:
+            $ref: '#/definitions/ResponseErro'
+  '/api/BloquearConta/{id}':
+    put:
+      tags:
+        - Conta
+      summary: Bloqueia uma conta
+      operationId: ApiBloquearContaByIdPut
+      consumes: []
+      produces:
+        - application/json
+      parameters:
+        - name: id
+          in: path
+          description: ''
+          required: true
+          type: integer
+          format: int32
+      responses:
+        '200':
+          description: Success
+          schema:
+            $ref: '#/definitions/ResponseApi'
+        '400':
+          description: Bad Request
+          schema:
+            $ref: '#/definitions/ResponseErro'
+  '/api/Saldo/{id}':
+    get:
+      tags:
+        - Conta
+      summary: Consulta o saldo da conta
+      operationId: ApiSaldoByIdGet
+      consumes: []
+      produces:
+        - application/json
+      parameters:
+        - name: id
+          in: path
+          description: ''
+          required: true
+          type: integer
+          format: int32
+      responses:
+        '200':
+          description: Success
+          schema:
+            $ref: '#/definitions/ResponseApi'
+        '400':
+          description: Bad Request
+          schema:
+            $ref: '#/definitions/ResponseErro'
+  /api/Deposito:
+    post:
+      tags:
+        - Transacao
+      summary: Efetua um depósito
+      operationId: ApiDepositoPost
+      consumes:
+        - application/json-patch+json
+        - application/json
+        - text/json
+        - application/*+json
+      produces:
+        - application/json
+      parameters:
+        - name: deposito
+          in: body
+          description: transação de depósito
+          required: false
+          schema:
+            $ref: '#/definitions/TransacaoViewModel'
+      responses:
+        '200':
+          description: Success
+          schema:
+            $ref: '#/definitions/ResponseApi'
+        '400':
+          description: Bad Request
+          schema:
+            $ref: '#/definitions/ResponseErro'
+  /api/Saque:
+    post:
+      tags:
+        - Transacao
+      summary: Efetua um saque
+      operationId: ApiSaquePost
+      consumes:
+        - application/json-patch+json
+        - application/json
+        - text/json
+        - application/*+json
+      produces:
+        - application/json
+      parameters:
+        - name: saque
+          in: body
+          description: transação de saque
+          required: false
+          schema:
+            $ref: '#/definitions/TransacaoViewModel'
+      responses:
+        '200':
+          description: Success
+          schema:
+            $ref: '#/definitions/ResponseApi'
+        '400':
+          description: Bad Request
+          schema:
+            $ref: '#/definitions/ResponseErro'
+  '/api/Extrato/{id}':
+    get:
+      tags:
+        - Transacao
+      summary: Obtem o Extrato da conta
+      operationId: ApiExtratoByIdGet
+      consumes: []
+      produces:
+        - application/json
+      parameters:
+        - name: id
+          in: path
+          description: id da Conta
+          required: true
+          type: integer
+          format: int32
+      responses:
+        '200':
+          description: Success
+          schema:
+            $ref: '#/definitions/ResponseExtrato'
+        '400':
+          description: Bad Request
+          schema:
+            $ref: '#/definitions/ResponseErro'
+  '/api/ExtratoPeriodo/{id}':
+    get:
+      tags:
+        - Transacao
+      summary: Obtem o Extrato da conta por período
+      operationId: ApiExtratoPeriodoByIdGet
+      consumes:
+        - application/json-patch+json
+        - application/json
+        - text/json
+        - application/*+json
+      produces:
+        - application/json
+      parameters:
+        - name: id
+          in: path
+          description: id da Conta
+          required: true
+          type: integer
+          format: int32
+        - name: periodo
+          in: body
+          description: Período
+          required: false
+          schema:
+            $ref: '#/definitions/Periodo'
+      responses:
+        '200':
+          description: Success
+          schema:
+            $ref: '#/definitions/ResponseExtrato'
+        '400':
+          description: Bad Request
+          schema:
+            $ref: '#/definitions/ResponseErro'
+definitions:
+  ContaViewModel:
+    type: object
+    properties:
+      idConta:
+        format: int32
+        type: integer
+      idPessoa:
+        format: int32
+        type: integer
+      limiteSaqueDiario:
+        format: double
+        type: number
+      tipoConta:
+        format: int32
+        type: integer
+  ResponseConta:
+    type: object
+    properties:
+      success:
+        type: boolean
+        readOnly: true
+      conta:
+        $ref: '#/definitions/ContaViewModel'
+  ResponseErro:
+    type: object
+    properties:
+      sucess:
+        default: false
+        type: boolean
+        readOnly: true
+      errors:
+        type: array
+        items:
+          type: string
+  ResponseApi:
+    type: object
+    properties:
+      success:
+        type: boolean
+  TransacaoViewModel:
+    type: object
+    properties:
+      idConta:
+        format: int32
+        type: integer
+      valor:
+        format: double
+        type: number
+  ResponseExtrato:
+    type: object
+    properties:
+      success:
+        type: boolean
+        readOnly: true
+      extrato:
+        type: array
+        items:
+          $ref: '#/definitions/ExtratoViewModel'
+  ExtratoViewModel:
+    type: object
+    properties:
+      idTransacao:
+        format: int32
+        type: integer
+      dataTransacao:
+        format: date-time
+        type: string
+      valor:
+        format: double
+        type: number
+  Periodo:
+    type: object
+    properties:
+      dtInicial:
+        format: date-time
+        type: string
+      dtFinal:
+        format: date-time
+        type: string

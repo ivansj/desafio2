@@ -1,0 +1,66 @@
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.WebAPI.deps.json
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.WebAPI.runtimeconfig.json
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.WebAPI.runtimeconfig.dev.json
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.WebAPI.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.WebAPI.pdb
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.WebAPI\obj\Debug\netcoreapp2.0\GConta.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.WebAPI\obj\Debug\netcoreapp2.0\GConta.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.WebAPI\obj\Debug\netcoreapp2.0\GConta.WebAPI.AssemblyInfoInputs.cache
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.WebAPI\obj\Debug\netcoreapp2.0\GConta.WebAPI.AssemblyInfo.cs
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.WebAPI\obj\Debug\netcoreapp2.0\GConta.WebAPI.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.WebAPI\obj\Debug\netcoreapp2.0\GConta.WebAPI.pdb
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.Domain.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.Infra.Data.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.Infra.Data.pdb
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.Domain.pdb
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.WebAPI\obj\Debug\netcoreapp2.0\GConta.WebAPI.csproj.CopyComplete
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.Application.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.Application.pdb
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.WebAPI.xml
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.Infra.CrossCutting.IoC.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.Infra.CrossCutting.IoC.pdb
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.Application.xml
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.WebAPI.xml
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.WebAPI.deps.json
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.WebAPI.runtimeconfig.json
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.WebAPI.runtimeconfig.dev.json
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.WebAPI.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.WebAPI.pdb
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.Application.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.Domain.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.Infra.CrossCutting.IoC.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.Infra.Data.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.Application.pdb
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.Application.xml
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.Domain.pdb
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.Infra.CrossCutting.IoC.pdb
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.Infra.Data.pdb
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.WebAPI\obj\Debug\netcoreapp2.0\GConta.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.WebAPI\obj\Debug\netcoreapp2.0\GConta.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.WebAPI\obj\Debug\netcoreapp2.0\GConta.WebAPI.AssemblyInfoInputs.cache
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.WebAPI\obj\Debug\netcoreapp2.0\GConta.WebAPI.AssemblyInfo.cs
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.WebAPI\obj\Debug\netcoreapp2.0\GConta.WebAPI.csproj.CopyComplete
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.WebAPI\obj\Debug\netcoreapp2.0\GConta.WebAPI.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.WebAPI\obj\Debug\netcoreapp2.0\GConta.WebAPI.pdb
+D:\Conductor\desafio2\desafio2\src\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.WebAPI.xml
+D:\Conductor\desafio2\desafio2\src\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.WebAPI.deps.json
+D:\Conductor\desafio2\desafio2\src\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.WebAPI.runtimeconfig.json
+D:\Conductor\desafio2\desafio2\src\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.WebAPI.runtimeconfig.dev.json
+D:\Conductor\desafio2\desafio2\src\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.WebAPI.dll
+D:\Conductor\desafio2\desafio2\src\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.WebAPI.pdb
+D:\Conductor\desafio2\desafio2\src\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.Application.dll
+D:\Conductor\desafio2\desafio2\src\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.Domain.dll
+D:\Conductor\desafio2\desafio2\src\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.Infra.CrossCutting.IoC.dll
+D:\Conductor\desafio2\desafio2\src\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.Infra.Data.dll
+D:\Conductor\desafio2\desafio2\src\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.Application.pdb
+D:\Conductor\desafio2\desafio2\src\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.Application.xml
+D:\Conductor\desafio2\desafio2\src\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.Domain.pdb
+D:\Conductor\desafio2\desafio2\src\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.Infra.CrossCutting.IoC.pdb
+D:\Conductor\desafio2\desafio2\src\GConta.WebAPI\bin\Debug\netcoreapp2.0\GConta.Infra.Data.pdb
+D:\Conductor\desafio2\desafio2\src\GConta.WebAPI\obj\Debug\netcoreapp2.0\GConta.WebAPI.csprojResolveAssemblyReference.cache
+D:\Conductor\desafio2\desafio2\src\GConta.WebAPI\obj\Debug\netcoreapp2.0\GConta.WebAPI.csproj.CoreCompileInputs.cache
+D:\Conductor\desafio2\desafio2\src\GConta.WebAPI\obj\Debug\netcoreapp2.0\GConta.WebAPI.AssemblyInfoInputs.cache
+D:\Conductor\desafio2\desafio2\src\GConta.WebAPI\obj\Debug\netcoreapp2.0\GConta.WebAPI.AssemblyInfo.cs
+D:\Conductor\desafio2\desafio2\src\GConta.WebAPI\obj\Debug\netcoreapp2.0\GConta.WebAPI.csproj.CopyComplete
+D:\Conductor\desafio2\desafio2\src\GConta.WebAPI\obj\Debug\netcoreapp2.0\GConta.WebAPI.dll
+D:\Conductor\desafio2\desafio2\src\GConta.WebAPI\obj\Debug\netcoreapp2.0\GConta.WebAPI.pdb

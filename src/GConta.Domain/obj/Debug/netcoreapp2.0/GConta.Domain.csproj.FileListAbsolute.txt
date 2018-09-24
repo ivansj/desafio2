@@ -1,0 +1,26 @@
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Domain\bin\Debug\netcoreapp2.0\GConta.Domain.deps.json
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Domain\bin\Debug\netcoreapp2.0\GConta.Domain.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Domain\bin\Debug\netcoreapp2.0\GConta.Domain.pdb
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Domain\obj\Debug\netcoreapp2.0\GConta.Domain.csprojResolveAssemblyReference.cache
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Domain\obj\Debug\netcoreapp2.0\GConta.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Domain\obj\Debug\netcoreapp2.0\GConta.Domain.AssemblyInfoInputs.cache
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Domain\obj\Debug\netcoreapp2.0\GConta.Domain.AssemblyInfo.cs
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Domain\obj\Debug\netcoreapp2.0\GConta.Domain.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Domain\obj\Debug\netcoreapp2.0\GConta.Domain.pdb
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Domain\bin\Debug\netcoreapp2.0\GConta.Domain.deps.json
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Domain\bin\Debug\netcoreapp2.0\GConta.Domain.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Domain\bin\Debug\netcoreapp2.0\GConta.Domain.pdb
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Domain\obj\Debug\netcoreapp2.0\GConta.Domain.csprojResolveAssemblyReference.cache
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Domain\obj\Debug\netcoreapp2.0\GConta.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Domain\obj\Debug\netcoreapp2.0\GConta.Domain.AssemblyInfoInputs.cache
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Domain\obj\Debug\netcoreapp2.0\GConta.Domain.AssemblyInfo.cs
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Domain\obj\Debug\netcoreapp2.0\GConta.Domain.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Domain\obj\Debug\netcoreapp2.0\GConta.Domain.pdb
+D:\Conductor\desafio2\desafio2\src\GConta.Domain\bin\Debug\netcoreapp2.0\GConta.Domain.deps.json
+D:\Conductor\desafio2\desafio2\src\GConta.Domain\bin\Debug\netcoreapp2.0\GConta.Domain.dll
+D:\Conductor\desafio2\desafio2\src\GConta.Domain\bin\Debug\netcoreapp2.0\GConta.Domain.pdb
+D:\Conductor\desafio2\desafio2\src\GConta.Domain\obj\Debug\netcoreapp2.0\GConta.Domain.csproj.CoreCompileInputs.cache
+D:\Conductor\desafio2\desafio2\src\GConta.Domain\obj\Debug\netcoreapp2.0\GConta.Domain.AssemblyInfoInputs.cache
+D:\Conductor\desafio2\desafio2\src\GConta.Domain\obj\Debug\netcoreapp2.0\GConta.Domain.AssemblyInfo.cs
+D:\Conductor\desafio2\desafio2\src\GConta.Domain\obj\Debug\netcoreapp2.0\GConta.Domain.dll
+D:\Conductor\desafio2\desafio2\src\GConta.Domain\obj\Debug\netcoreapp2.0\GConta.Domain.pdb

@@ -1,0 +1,36 @@
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Infra.Data\bin\Debug\netcoreapp2.0\GConta.Domain.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Infra.Data\obj\Debug\netcoreapp2.0\GConta.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Infra.Data\obj\Debug\netcoreapp2.0\GConta.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Infra.Data\obj\Debug\netcoreapp2.0\GConta.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Infra.Data\obj\Debug\netcoreapp2.0\GConta.Infra.Data.AssemblyInfo.cs
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Infra.Data\bin\Debug\netcoreapp2.0\GConta.Infra.Data.deps.json
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Infra.Data\bin\Debug\netcoreapp2.0\GConta.Infra.Data.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Infra.Data\bin\Debug\netcoreapp2.0\GConta.Infra.Data.pdb
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Infra.Data\bin\Debug\netcoreapp2.0\GConta.Domain.pdb
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Infra.Data\obj\Debug\netcoreapp2.0\GConta.Infra.Data.csproj.CopyComplete
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Infra.Data\obj\Debug\netcoreapp2.0\GConta.Infra.Data.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Infra.Data\obj\Debug\netcoreapp2.0\GConta.Infra.Data.pdb
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Infra.Data\bin\Debug\netcoreapp2.0\GConta.Infra.Data.deps.json
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Infra.Data\bin\Debug\netcoreapp2.0\GConta.Infra.Data.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Infra.Data\bin\Debug\netcoreapp2.0\GConta.Infra.Data.pdb
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Infra.Data\bin\Debug\netcoreapp2.0\GConta.Domain.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Infra.Data\bin\Debug\netcoreapp2.0\GConta.Domain.pdb
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Infra.Data\obj\Debug\netcoreapp2.0\GConta.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Infra.Data\obj\Debug\netcoreapp2.0\GConta.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Infra.Data\obj\Debug\netcoreapp2.0\GConta.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Infra.Data\obj\Debug\netcoreapp2.0\GConta.Infra.Data.AssemblyInfo.cs
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Infra.Data\obj\Debug\netcoreapp2.0\GConta.Infra.Data.csproj.CopyComplete
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Infra.Data\obj\Debug\netcoreapp2.0\GConta.Infra.Data.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Infra.Data\obj\Debug\netcoreapp2.0\GConta.Infra.Data.pdb
+D:\Conductor\desafio2\desafio2\src\GConta.Infra.Data\bin\Debug\netcoreapp2.0\GConta.Infra.Data.deps.json
+D:\Conductor\desafio2\desafio2\src\GConta.Infra.Data\bin\Debug\netcoreapp2.0\GConta.Infra.Data.dll
+D:\Conductor\desafio2\desafio2\src\GConta.Infra.Data\bin\Debug\netcoreapp2.0\GConta.Infra.Data.pdb
+D:\Conductor\desafio2\desafio2\src\GConta.Infra.Data\bin\Debug\netcoreapp2.0\GConta.Domain.dll
+D:\Conductor\desafio2\desafio2\src\GConta.Infra.Data\bin\Debug\netcoreapp2.0\GConta.Domain.pdb
+D:\Conductor\desafio2\desafio2\src\GConta.Infra.Data\obj\Debug\netcoreapp2.0\GConta.Infra.Data.csprojResolveAssemblyReference.cache
+D:\Conductor\desafio2\desafio2\src\GConta.Infra.Data\obj\Debug\netcoreapp2.0\GConta.Infra.Data.csproj.CoreCompileInputs.cache
+D:\Conductor\desafio2\desafio2\src\GConta.Infra.Data\obj\Debug\netcoreapp2.0\GConta.Infra.Data.AssemblyInfoInputs.cache
+D:\Conductor\desafio2\desafio2\src\GConta.Infra.Data\obj\Debug\netcoreapp2.0\GConta.Infra.Data.AssemblyInfo.cs
+D:\Conductor\desafio2\desafio2\src\GConta.Infra.Data\obj\Debug\netcoreapp2.0\GConta.Infra.Data.csproj.CopyComplete
+D:\Conductor\desafio2\desafio2\src\GConta.Infra.Data\obj\Debug\netcoreapp2.0\GConta.Infra.Data.dll
+D:\Conductor\desafio2\desafio2\src\GConta.Infra.Data\obj\Debug\netcoreapp2.0\GConta.Infra.Data.pdb

@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GConta.Application</name>
+    </assembly>
+    <members>
+        <member name="P:GConta.Application.Response.ResponseErro.sucess">
+            <summary>
+            sucesso (false)
+            </summary>
+            <value>false</value>
+        </member>
+        <member name="P:GConta.Application.Response.ResponseErro.errors">
+            <summary>
+            lista de erros
+            </summary>
+        </member>
+        <member name="T:GConta.Application.TransacaoAppService">
+            <summary>
+            Serviço de aplicação de Transacao
+            </summary>
+        </member>
+        <member name="M:GConta.Application.TransacaoAppService.#ctor(GConta.Domain.Interfaces.Services.ITransacaoService,GConta.Domain.Interfaces.Services.IContaService,AutoMapper.IMapper)">
+            <summary>
+            Construtor
+            </summary>
+            <param name="service"></param>
+            <param name="contaService"></param>
+            <param name="mapper"></param>
+        </member>
+        <member name="M:GConta.Application.TransacaoAppService.Deposito(GConta.Application.ViewModel.TransacaoViewModel)">
+            <summary>
+            Depósito
+            </summary>
+            <param name="obj"></param>
+        </member>
+        <member name="M:GConta.Application.TransacaoAppService.DepositoAsync(GConta.Application.ViewModel.TransacaoViewModel)">
+            <summary>
+            Depósito
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GConta.Application.TransacaoAppService.ObterExtrato(System.Int32,GConta.Application.ViewModel.Periodo)">
+            <summary>
+            Obter Extrato
+            </summary>
+            <param name="idConta"></param>
+            <param name="periodo"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GConta.Application.TransacaoAppService.ObterExtratoAsync(System.Int32,GConta.Application.ViewModel.Periodo)">
+            <summary>
+            Obter extra
+            </summary>
+            <param name="idConta"></param>
+            <param name="periodo"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GConta.Application.TransacaoAppService.Saque(GConta.Application.ViewModel.TransacaoViewModel)">
+            <summary>
+            Efetua Saque
+            </summary>
+            <param name="obj"></param>
+        </member>
+        <member name="M:GConta.Application.TransacaoAppService.SaqueAsync(GConta.Application.ViewModel.TransacaoViewModel)">
+            <summary>
+            Efetua Saque
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="T:GConta.Application.ViewModel.ContaViewModel">
+            <summary>
+            Conta
+            </summary>
+        </member>
+        <member name="P:GConta.Application.ViewModel.ContaViewModel.idConta">
+            <summary>
+            id da Conta
+            </summary>
+        </member>
+        <member name="P:GConta.Application.ViewModel.ContaViewModel.idPessoa">
+            <summary>
+            id da Pessoa
+            </summary>
+        </member>
+        <member name="P:GConta.Application.ViewModel.TransacaoViewModel.idConta">
+            <summary>
+            ID da Conta
+            </summary>
+        </member>
+        <member name="P:GConta.Application.ViewModel.TransacaoViewModel.valor">
+            <summary>
+            Valor da transação
+            </summary>
+        </member>
+    </members>
+</doc>

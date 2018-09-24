@@ -1,0 +1,38 @@
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\tests\GConta.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\tests\GConta.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\tests\GConta.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\tests\GConta.Tests\bin\Debug\netcoreapp2.0\GConta.Tests.deps.json
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\tests\GConta.Tests\bin\Debug\netcoreapp2.0\GConta.Tests.runtimeconfig.json
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\tests\GConta.Tests\bin\Debug\netcoreapp2.0\GConta.Tests.runtimeconfig.dev.json
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\tests\GConta.Tests\bin\Debug\netcoreapp2.0\GConta.Tests.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\tests\GConta.Tests\obj\Debug\netcoreapp2.0\GConta.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\tests\GConta.Tests\obj\Debug\netcoreapp2.0\GConta.Tests.csproj.CoreCompileInputs.cache
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\tests\GConta.Tests\obj\Debug\netcoreapp2.0\GConta.Tests.AssemblyInfoInputs.cache
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\tests\GConta.Tests\obj\Debug\netcoreapp2.0\GConta.Tests.AssemblyInfo.cs
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\tests\GConta.Tests\bin\Debug\netcoreapp2.0\GConta.Domain.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\tests\GConta.Tests\bin\Debug\netcoreapp2.0\GConta.Infra.Data.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\tests\GConta.Tests\bin\Debug\netcoreapp2.0\GConta.Domain.pdb
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\tests\GConta.Tests\bin\Debug\netcoreapp2.0\GConta.Infra.Data.pdb
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\tests\GConta.Tests\obj\Debug\netcoreapp2.0\GConta.Tests.csproj.CopyComplete
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\tests\GConta.Tests\bin\Debug\netcoreapp2.0\GConta.Tests.pdb
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\tests\GConta.Tests\obj\Debug\netcoreapp2.0\GConta.Tests.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\tests\GConta.Tests\obj\Debug\netcoreapp2.0\GConta.Tests.pdb
+D:\Conductor\desafio2\desafio2\tests\GConta.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Conductor\desafio2\desafio2\tests\GConta.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Conductor\desafio2\desafio2\tests\GConta.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\Conductor\desafio2\desafio2\tests\GConta.Tests\bin\Debug\netcoreapp2.0\GConta.Tests.deps.json
+D:\Conductor\desafio2\desafio2\tests\GConta.Tests\bin\Debug\netcoreapp2.0\GConta.Tests.runtimeconfig.json
+D:\Conductor\desafio2\desafio2\tests\GConta.Tests\bin\Debug\netcoreapp2.0\GConta.Tests.runtimeconfig.dev.json
+D:\Conductor\desafio2\desafio2\tests\GConta.Tests\bin\Debug\netcoreapp2.0\GConta.Tests.dll
+D:\Conductor\desafio2\desafio2\tests\GConta.Tests\bin\Debug\netcoreapp2.0\GConta.Tests.pdb
+D:\Conductor\desafio2\desafio2\tests\GConta.Tests\bin\Debug\netcoreapp2.0\GConta.Domain.dll
+D:\Conductor\desafio2\desafio2\tests\GConta.Tests\bin\Debug\netcoreapp2.0\GConta.Infra.Data.dll
+D:\Conductor\desafio2\desafio2\tests\GConta.Tests\bin\Debug\netcoreapp2.0\GConta.Domain.pdb
+D:\Conductor\desafio2\desafio2\tests\GConta.Tests\bin\Debug\netcoreapp2.0\GConta.Infra.Data.pdb
+D:\Conductor\desafio2\desafio2\tests\GConta.Tests\obj\Debug\netcoreapp2.0\GConta.Tests.csprojResolveAssemblyReference.cache
+D:\Conductor\desafio2\desafio2\tests\GConta.Tests\obj\Debug\netcoreapp2.0\GConta.Tests.csproj.CoreCompileInputs.cache
+D:\Conductor\desafio2\desafio2\tests\GConta.Tests\obj\Debug\netcoreapp2.0\GConta.Tests.AssemblyInfoInputs.cache
+D:\Conductor\desafio2\desafio2\tests\GConta.Tests\obj\Debug\netcoreapp2.0\GConta.Tests.AssemblyInfo.cs
+D:\Conductor\desafio2\desafio2\tests\GConta.Tests\obj\Debug\netcoreapp2.0\GConta.Tests.csproj.CopyComplete
+D:\Conductor\desafio2\desafio2\tests\GConta.Tests\obj\Debug\netcoreapp2.0\GConta.Tests.dll
+D:\Conductor\desafio2\desafio2\tests\GConta.Tests\obj\Debug\netcoreapp2.0\GConta.Tests.pdb

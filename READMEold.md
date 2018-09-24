@@ -78,9 +78,3 @@ Se você for aprovado nesta etapa, será convidado para uma entrevista com nosso
       3. Desenvolva. Você terá até 7 (sete) dias a partir da data do envio do desafio; 
       4. Após concluir seu trabalho faça um push; 
       5. Responda ao e-mail enviado do desafio, adicionando cópia para geeks-aquisicaodetalentos@Conductor.onmicrosoft.com notificando a finalização do desafio para validação.
-
-	  
-
-### Documentação
- - [Documentação da API](docs/DocumentaocaoAPI.pdf)
-	

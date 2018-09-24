@@ -1,0 +1,51 @@
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\GConta.Infra.CrossCutting.IoC.deps.json
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\GConta.Infra.CrossCutting.IoC.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\GConta.Application.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\GConta.Domain.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\GConta.Infra.Data.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\GConta.Application.pdb
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\GConta.Domain.pdb
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\GConta.Infra.Data.pdb
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.0\GConta.Infra.CrossCutting.IoC.csprojResolveAssemblyReference.cache
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.0\GConta.Infra.CrossCutting.IoC.csproj.CoreCompileInputs.cache
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.0\GConta.Infra.CrossCutting.IoC.AssemblyInfoInputs.cache
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.0\GConta.Infra.CrossCutting.IoC.AssemblyInfo.cs
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.0\GConta.Infra.CrossCutting.IoC.csproj.CopyComplete
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\GConta.Infra.CrossCutting.IoC.pdb
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.0\GConta.Infra.CrossCutting.IoC.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.0\GConta.Infra.CrossCutting.IoC.pdb
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\GConta.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\GConta.Application.xml
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.0\GConta.Infra.CrossCutting.IoC.csprojResolveAssemblyReference.cache
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.0\GConta.Infra.CrossCutting.IoC.csproj.CoreCompileInputs.cache
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.0\GConta.Infra.CrossCutting.IoC.AssemblyInfoInputs.cache
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.0\GConta.Infra.CrossCutting.IoC.AssemblyInfo.cs
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.0\GConta.Infra.CrossCutting.IoC.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.0\GConta.Infra.CrossCutting.IoC.pdb
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\GConta.Infra.CrossCutting.IoC.deps.json
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\GConta.Infra.CrossCutting.IoC.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\GConta.Infra.CrossCutting.IoC.pdb
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\GConta.Application.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\GConta.Domain.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\GConta.Infra.Data.dll
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\GConta.Application.pdb
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\GConta.Application.xml
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\GConta.Domain.pdb
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\GConta.Infra.Data.pdb
+C:\Users\ivan\Documents\Visual Studio 2017\Projects\GConta\src\GConta.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.0\GConta.Infra.CrossCutting.IoC.csproj.CopyComplete
+D:\Conductor\desafio2\desafio2\src\GConta.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\GConta.Infra.CrossCutting.IoC.deps.json
+D:\Conductor\desafio2\desafio2\src\GConta.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\GConta.Infra.CrossCutting.IoC.dll
+D:\Conductor\desafio2\desafio2\src\GConta.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\GConta.Infra.CrossCutting.IoC.pdb
+D:\Conductor\desafio2\desafio2\src\GConta.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\GConta.Application.dll
+D:\Conductor\desafio2\desafio2\src\GConta.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\GConta.Domain.dll
+D:\Conductor\desafio2\desafio2\src\GConta.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\GConta.Infra.Data.dll
+D:\Conductor\desafio2\desafio2\src\GConta.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\GConta.Application.pdb
+D:\Conductor\desafio2\desafio2\src\GConta.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\GConta.Application.xml
+D:\Conductor\desafio2\desafio2\src\GConta.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\GConta.Domain.pdb
+D:\Conductor\desafio2\desafio2\src\GConta.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\GConta.Infra.Data.pdb
+D:\Conductor\desafio2\desafio2\src\GConta.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.0\GConta.Infra.CrossCutting.IoC.csprojResolveAssemblyReference.cache
+D:\Conductor\desafio2\desafio2\src\GConta.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.0\GConta.Infra.CrossCutting.IoC.csproj.CoreCompileInputs.cache
+D:\Conductor\desafio2\desafio2\src\GConta.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.0\GConta.Infra.CrossCutting.IoC.AssemblyInfoInputs.cache
+D:\Conductor\desafio2\desafio2\src\GConta.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.0\GConta.Infra.CrossCutting.IoC.AssemblyInfo.cs
+D:\Conductor\desafio2\desafio2\src\GConta.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.0\GConta.Infra.CrossCutting.IoC.csproj.CopyComplete
+D:\Conductor\desafio2\desafio2\src\GConta.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.0\GConta.Infra.CrossCutting.IoC.dll
+D:\Conductor\desafio2\desafio2\src\GConta.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.0\GConta.Infra.CrossCutting.IoC.pdb

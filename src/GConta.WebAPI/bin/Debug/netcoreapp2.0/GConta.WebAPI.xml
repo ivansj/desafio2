@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GConta.WebAPI</name>
+    </assembly>
+    <members>
+        <member name="T:GConta.WebAPI.Controllers.ContaController">
+            <summary>
+            API de nova conta
+            </summary>
+        </member>
+        <member name="M:GConta.WebAPI.Controllers.ContaController.#ctor(GConta.Application.Interfaces.IContaAppService)">
+            <summary>
+            Construtor Contreole
+            </summary>
+            <param name="contaApp"></param>
+        </member>
+        <member name="M:GConta.WebAPI.Controllers.ContaController.CriarContaAsync(GConta.Application.ViewModel.ContaViewModel)">
+            <summary>
+            Cria uma nova conta
+            </summary>
+            <param name="conta"></param>
+            <returns>id da conta</returns>
+        </member>
+        <member name="M:GConta.WebAPI.Controllers.ContaController.BloquearAsync(System.Int32)">
+            <summary>
+            Bloqueia uma conta
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GConta.WebAPI.Controllers.ContaController.GetSaldoAsync(System.Int32)">
+            <summary>
+            Consulta o saldo da conta
+            </summary>
+            <param name="id"></param>
+            <returns>retorna o saldo</returns>
+        </member>
+        <member name="M:GConta.WebAPI.Controllers.TransacaoController.DepositoAsync(GConta.Application.ViewModel.TransacaoViewModel)">
+            <summary>
+            Efetua um depósito
+            </summary>
+            <param name="deposito">transação de depósito</param>
+            <returns></returns>
+        </member>
+        <member name="M:GConta.WebAPI.Controllers.TransacaoController.Sacar(GConta.Application.ViewModel.TransacaoViewModel)">
+            <summary>
+            Efetua um saque
+            </summary>
+            <param name="saque">transação de saque</param>
+            <returns></returns>
+        </member>
+        <member name="M:GConta.WebAPI.Controllers.TransacaoController.ObterExtrato(System.Int32)">
+            <summary>
+            Obtem o Extrato da conta
+            </summary>
+            <param name="id">id da Conta</param>
+            <returns></returns>
+        </member>
+        <member name="M:GConta.WebAPI.Controllers.TransacaoController.ObterExtratoPeriodo(System.Int32,GConta.Application.ViewModel.Periodo)">
+            <summary>
+            Obtem o Extrato da conta por período
+            </summary>
+            <param name="id">id da Conta</param>
+            <param name="periodo">Período</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
